@@ -8,22 +8,22 @@ namespace TrabalhoClasse
 {
     internal class Program
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Digite o nome da pessoa:"); string n = Console.ReadLine();
-            Console.WriteLine("Digite a idade de {0}:"); int i = int.Parse(Console.ReadLine());
-            Console.WriteLine("Digite a altura de {0}:"); double a = double.Parse(Console.ReadLine());
-            Console.WriteLine("Digite a letra correspondente ao sexo(F/M):"); char s = char.Parse(Console.ReadLine());
+        static void Main(string[] args) {
+            const int TAM = 15;
+            Pessoa[] p = new Pessoa[TAM];
+            int c = 0;
+            UnobservedTaskExceptionEventArgs op = 0;
+            do {
+                op = menu();
+                switch (op) {
+                    case 1: p[c++] = cadastrarPessoa(); break;
+                    case 2: ListarPessoas(p, c); break;
+                    case 3: exibirMediaPesoIdeal(p, "MASCULINO", c); break;
+                    case 4: exibirmediaPesoIdeal(p, "FEMININO", c); break;
+                    case 0: break;
 
-
-            Pessoa pessoa = new Pessoa(n, i, a, s );
-
-            Console.WriteLine("\n\n*** Dados da Pessoas ***\n");
-            Console.WriteLine(pessoa.ToString());
-
-            Console.WriteLine(" Peso Ideal: {0}",pessoa.calcularPesoIdeal());
-
-            Console.ReadKey();
-        }
-    }
-}
+                    default: Console.WriteLine("Opção Inválida."); break;
+                }
+                Console.SetCursorPosition(50, 20);
+                Console.Write("Tecle Algo para continuar!");
+                Console.Read

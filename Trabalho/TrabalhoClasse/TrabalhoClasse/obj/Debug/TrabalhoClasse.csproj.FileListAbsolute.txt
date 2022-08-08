@@ -1,0 +1,8 @@
+C:\Users\2jdmtec\Downloads\Trabalho\TrabalhoClasse\TrabalhoClasse\bin\Debug\TrabalhoClasse.exe.config
+C:\Users\2jdmtec\Downloads\Trabalho\TrabalhoClasse\TrabalhoClasse\bin\Debug\TrabalhoClasse.exe
+C:\Users\2jdmtec\Downloads\Trabalho\TrabalhoClasse\TrabalhoClasse\bin\Debug\TrabalhoClasse.pdb
+C:\Users\2jdmtec\Downloads\Trabalho\TrabalhoClasse\TrabalhoClasse\obj\Debug\TrabalhoClasse.csproj.AssemblyReference.cache
+C:\Users\2jdmtec\Downloads\Trabalho\TrabalhoClasse\TrabalhoClasse\obj\Debug\TrabalhoClasse.csproj.SuggestedBindingRedirects.cache
+C:\Users\2jdmtec\Downloads\Trabalho\TrabalhoClasse\TrabalhoClasse\obj\Debug\TrabalhoClasse.csproj.CoreCompileInputs.cache
+C:\Users\2jdmtec\Downloads\Trabalho\TrabalhoClasse\TrabalhoClasse\obj\Debug\TrabalhoClasse.exe
+C:\Users\2jdmtec\Downloads\Trabalho\TrabalhoClasse\TrabalhoClasse\obj\Debug\TrabalhoClasse.pdb

@@ -47,7 +47,7 @@ namespace TrabalhoClasse
         public string Sexo
         {
             get { return sexo; }
-            set { sexo = value.ToUpper() == "M" ? "MASCULINO" : "Feminio"; }
+            set { sexo = value.ToUpper() == "M" ? "MASCULINO" : "FEMININO"; }
 
         }
         public double calcularPesoIdeal()
@@ -59,7 +59,7 @@ namespace TrabalhoClasse
         }
         public override string ToString()
         {
-            return (String.Format(" Nome:{0}  \n Idade: {1} Altura: {2}\n Sexo:{3}\n", nome, idade, altura, sexo));
+            return (String.Format(" Nome:{0}  \n Idade: {1} \n \nAltura: {2}\n Sexo: {3}\n", nome, idade, altura, sexo));
         
                 }
     }
