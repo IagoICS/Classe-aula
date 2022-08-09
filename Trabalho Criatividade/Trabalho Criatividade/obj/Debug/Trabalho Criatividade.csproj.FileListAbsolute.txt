@@ -1,0 +1,16 @@
+C:\Users\2jdmtec\Desktop\2 - JD\Trabalho Criatividade\Trabalho Criatividade\bin\Debug\Trabalho Criatividade.exe.config
+C:\Users\2jdmtec\Desktop\2 - JD\Trabalho Criatividade\Trabalho Criatividade\bin\Debug\Trabalho Criatividade.exe
+C:\Users\2jdmtec\Desktop\2 - JD\Trabalho Criatividade\Trabalho Criatividade\bin\Debug\Trabalho Criatividade.pdb
+C:\Users\2jdmtec\Desktop\2 - JD\Trabalho Criatividade\Trabalho Criatividade\obj\Debug\Trabalho Criatividade.csproj.AssemblyReference.cache
+C:\Users\2jdmtec\Desktop\2 - JD\Trabalho Criatividade\Trabalho Criatividade\obj\Debug\Trabalho Criatividade.csproj.SuggestedBindingRedirects.cache
+C:\Users\2jdmtec\Desktop\2 - JD\Trabalho Criatividade\Trabalho Criatividade\obj\Debug\Trabalho Criatividade.csproj.CoreCompileInputs.cache
+C:\Users\2jdmtec\Desktop\2 - JD\Trabalho Criatividade\Trabalho Criatividade\obj\Debug\Trabalho Criatividade.exe
+C:\Users\2jdmtec\Desktop\2 - JD\Trabalho Criatividade\Trabalho Criatividade\obj\Debug\Trabalho Criatividade.pdb
+C:\Users\2jdmtec\Desktop\2 - JD\LP\Trabalho Criatividade\Trabalho Criatividade\obj\Debug\Trabalho Criatividade.csproj.AssemblyReference.cache
+C:\Users\2jdmtec\Desktop\2 - JD\LP\Trabalho Criatividade\Trabalho Criatividade\obj\Debug\Trabalho Criatividade.csproj.SuggestedBindingRedirects.cache
+C:\Users\2jdmtec\Desktop\2 - JD\LP\Trabalho Criatividade\Trabalho Criatividade\obj\Debug\Trabalho Criatividade.csproj.CoreCompileInputs.cache
+C:\Users\2jdmtec\Desktop\2 - JD\LP\Trabalho Criatividade\Trabalho Criatividade\obj\Debug\Trabalho Criatividade.exe
+C:\Users\2jdmtec\Desktop\2 - JD\LP\Trabalho Criatividade\Trabalho Criatividade\obj\Debug\Trabalho Criatividade.pdb
+C:\Users\2jdmtec\Desktop\2 - JD\LP\Trabalho Criatividade\Trabalho Criatividade\bin\Debug\Trabalho Criatividade.exe.config
+C:\Users\2jdmtec\Desktop\2 - JD\LP\Trabalho Criatividade\Trabalho Criatividade\bin\Debug\Trabalho Criatividade.exe
+C:\Users\2jdmtec\Desktop\2 - JD\LP\Trabalho Criatividade\Trabalho Criatividade\bin\Debug\Trabalho Criatividade.pdb
